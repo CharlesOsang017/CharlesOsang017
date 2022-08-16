@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**CharlesOsang017/CharlesOsang017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey, I'm Charles Osango
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on ... Food Delivery app
+- 🌱 I’m currently learning ... React & Redux
+- 👯 I’m looking to collaborate on ... LinkedIn
+- 🤔 I’m looking for help with ... Redux
+- 💬 Ask me about ... Any tech related topic
+- 📫 How to reach me: ... charlesosango02@gmail.om
+- 😄 Pronouns: ... When
+- ⚡ Fun fact: ...I laugh when I get bugs
+
