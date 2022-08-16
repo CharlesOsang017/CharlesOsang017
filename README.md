@@ -1,14 +1,5 @@
+### Hi there 
+I'm Charles Osango, a frontend developer from Kenya, I fancy developing websites and challenging myself in solving bugs during development.
 
-
-Hey, I'm Charles Osango
-
-
-- 🔭 I’m currently working on ... Food Delivery app
-- 🌱 I’m currently learning ... React & Redux
-- 👯 I’m looking to collaborate on ... LinkedIn
-- 🤔 I’m looking for help with ... Redux
-- 💬 Ask me about ... Any tech related topic
-- 📫 How to reach me: ... charlesosango02@gmail.om
-- 😄 Pronouns: ... When
-- ⚡ Fun fact: ...I laugh when I get bugs
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesOsang017)](https://github.com/anuraghazra/github-readme-stats)
 
