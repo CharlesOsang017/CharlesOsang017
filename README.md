@@ -2,7 +2,7 @@
 
 #### Frontend Developer
 
-I'm Charles Osango, a frontend developer from Kenya, I fancy developing websites and challenging myself in solving bugs during development.
+I'm Charles Osango, a sofware developer from Kenya, I fancy developing websites and challenging myself in solving bugs during development.
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesOsang017)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,21 +14,20 @@ I'm Charles Osango, a frontend developer from Kenya, I fancy developing websites
 #### Skills: 
 
 * REACTJS
-* CSS
-* HTML
 * Nodejs
 * Expressjs
 * Mongodb
 * Tailwindcss
+* CSS
+* HTML
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesOsang017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on Food Delivery App 
-- 🌱 I’m currently learning Redux 
+
+
 - 👯 I’m looking to collaborate on LinkedIn 
-- 🤔 I’m looking for help with Redux 
 - 💬 Ask me about Tech related topics 
 - 📫 How to reach me: charlesosango02@gmail.com 
 - 😄 Pronouns: When 
