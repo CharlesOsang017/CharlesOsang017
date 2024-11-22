@@ -16,7 +16,10 @@ I'm Charles Osango, a frontend developer from Kenya, I fancy developing websites
 * REACTJS
 * CSS
 * HTML
-* REDUX
+* Nodejs
+* Expressjs
+* Mongodb
+* Tailwindcss
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesOsang017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
